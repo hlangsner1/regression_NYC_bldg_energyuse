@@ -1,1 +1,2 @@
 # regression_NYC_bldg_energyuse
+# This project demonstrates that the expected independent variables are not always explanatory of the model results. In this case, age of building, floor space, and energy mix were not as important as building operations and metering nuances as a determinant of emissions performance of New York City hotels in Manhattan. Many of the buildings made in the 1970-1990s before the implementation of Local Law 97 are less efficient than much older buildings. 
